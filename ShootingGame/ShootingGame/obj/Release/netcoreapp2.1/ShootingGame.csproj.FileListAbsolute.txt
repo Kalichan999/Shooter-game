@@ -1,0 +1,11 @@
+F:\ajay\WorkspaceVs2019\ShootingGame\ShootingGame\bin\Release\netcoreapp2.1\ShootingGame.deps.json
+F:\ajay\WorkspaceVs2019\ShootingGame\ShootingGame\bin\Release\netcoreapp2.1\ShootingGame.runtimeconfig.json
+F:\ajay\WorkspaceVs2019\ShootingGame\ShootingGame\bin\Release\netcoreapp2.1\ShootingGame.runtimeconfig.dev.json
+F:\ajay\WorkspaceVs2019\ShootingGame\ShootingGame\bin\Release\netcoreapp2.1\ShootingGame.dll
+F:\ajay\WorkspaceVs2019\ShootingGame\ShootingGame\bin\Release\netcoreapp2.1\ShootingGame.pdb
+F:\ajay\WorkspaceVs2019\ShootingGame\ShootingGame\obj\Release\netcoreapp2.1\ShootingGame.csprojAssemblyReference.cache
+F:\ajay\WorkspaceVs2019\ShootingGame\ShootingGame\obj\Release\netcoreapp2.1\ShootingGame.csproj.CoreCompileInputs.cache
+F:\ajay\WorkspaceVs2019\ShootingGame\ShootingGame\obj\Release\netcoreapp2.1\ShootingGame.AssemblyInfoInputs.cache
+F:\ajay\WorkspaceVs2019\ShootingGame\ShootingGame\obj\Release\netcoreapp2.1\ShootingGame.AssemblyInfo.cs
+F:\ajay\WorkspaceVs2019\ShootingGame\ShootingGame\obj\Release\netcoreapp2.1\ShootingGame.dll
+F:\ajay\WorkspaceVs2019\ShootingGame\ShootingGame\obj\Release\netcoreapp2.1\ShootingGame.pdb

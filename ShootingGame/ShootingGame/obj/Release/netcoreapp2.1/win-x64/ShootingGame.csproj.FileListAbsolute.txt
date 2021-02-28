@@ -1,0 +1,14 @@
+F:\ajay\WorkspaceVs2019\ShootingGame\ShootingGame\bin\Release\netcoreapp2.1\win-x64\ShootingGame.deps.json
+F:\ajay\WorkspaceVs2019\ShootingGame\ShootingGame\bin\Release\netcoreapp2.1\win-x64\ShootingGame.runtimeconfig.json
+F:\ajay\WorkspaceVs2019\ShootingGame\ShootingGame\bin\Release\netcoreapp2.1\win-x64\ShootingGame.runtimeconfig.dev.json
+F:\ajay\WorkspaceVs2019\ShootingGame\ShootingGame\bin\Release\netcoreapp2.1\win-x64\ShootingGame.dll
+F:\ajay\WorkspaceVs2019\ShootingGame\ShootingGame\bin\Release\netcoreapp2.1\win-x64\ShootingGame.pdb
+F:\ajay\WorkspaceVs2019\ShootingGame\ShootingGame\obj\Release\netcoreapp2.1\win-x64\ShootingGame.csproj.CoreCompileInputs.cache
+F:\ajay\WorkspaceVs2019\ShootingGame\ShootingGame\obj\Release\netcoreapp2.1\win-x64\ShootingGame.AssemblyInfoInputs.cache
+F:\ajay\WorkspaceVs2019\ShootingGame\ShootingGame\obj\Release\netcoreapp2.1\win-x64\ShootingGame.AssemblyInfo.cs
+F:\ajay\WorkspaceVs2019\ShootingGame\ShootingGame\obj\Release\netcoreapp2.1\win-x64\ShootingGame.dll
+F:\ajay\WorkspaceVs2019\ShootingGame\ShootingGame\obj\Release\netcoreapp2.1\win-x64\ShootingGame.pdb
+F:\ajay\WorkspaceVs2019\ShootingGame\ShootingGame\bin\Release\netcoreapp2.1\win-x64\hostpolicy.dll
+F:\ajay\WorkspaceVs2019\ShootingGame\ShootingGame\bin\Release\netcoreapp2.1\win-x64\hostfxr.dll
+F:\ajay\WorkspaceVs2019\ShootingGame\ShootingGame\bin\Release\netcoreapp2.1\win-x64\ShootingGame.exe
+F:\ajay\WorkspaceVs2019\ShootingGame\ShootingGame\obj\Release\netcoreapp2.1\win-x64\ShootingGame.csprojAssemblyReference.cache
